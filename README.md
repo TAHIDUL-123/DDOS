@@ -16,4 +16,4 @@ cd DDOS
 
 chmod +x *
 
-python2 DDOS.py
+python2 DDOS-KHAN.py
